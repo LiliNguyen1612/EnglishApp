@@ -1,1 +1,7 @@
 # EnglishApp
+## TECHNOLOGIES
+- JAVA
+- OOP
+- FIREBASE
+## AUTHOR
+- NNAD
